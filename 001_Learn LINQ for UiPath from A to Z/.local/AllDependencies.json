@@ -21259,15 +21259,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\vermi\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "001_Learn LINQ for UiPath from A to Z",
       "projectName": "001_Learn LINQ for UiPath from A to Z",
-      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\practice_003_LINQ\\001_Learn LINQ for UiPath from A to Z\\.local",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\practice_003_LINQ\\001_Learn LINQ for UiPath from A to Z\\.local"
+      "projectPath": "C:\\Users\\vermi\\OneDrive\\문서\\repositories\\practice_003_LINQ\\001_Learn LINQ for UiPath from A to Z\\.local",
+      "packagesPath": "C:\\Users\\vermi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vermi\\OneDrive\\문서\\repositories\\practice_003_LINQ\\001_Learn LINQ for UiPath from A to Z\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -21298,7 +21298,7 @@
             "version": "[23.4.4, 23.4.4]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\vermi\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {

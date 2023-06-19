@@ -64,6 +64,51 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "시퀀스.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "len&Sequence_52",
+        "j&Sequence_52",
+        "newRow&Sequence_52",
+        "i&Sequence_52",
+        "i&Sequence_46",
+        "j&Sequence_47",
+        "rowTotal&Sequence_41",
+        "j&Sequence_41",
+        "i&Sequence_40",
+        "dataCol&Sequence_1",
+        "count&Sequence_1",
+        "i&Sequence_34",
+        "position&Sequence_31",
+        "i&Sequence_28",
+        "j&Sequence_29",
+        "i&Sequence_23",
+        "j&Sequence_24",
+        "rowItem&Sequence_22",
+        "len&Sequence_22",
+        "j&Sequence_19",
+        "arr&Sequence_1",
+        "i&Sequence_20",
+        "str&Sequence_1",
+        "total&Sequence_1",
+        "dt&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "06_LINQ XML2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "xDoc&Sequence_1",
+        "Names&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }
