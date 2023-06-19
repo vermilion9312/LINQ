@@ -1,0 +1,69 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "01_LINQ Array_ToArray.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outputArr&Sequence_1",
+        "numArr&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_LINQ Array_Count.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "count&Sequence_1",
+        "numArr&Sequence_1",
+        "outputArr&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "03_LINQ Array_Count2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "numArr&Sequence_1",
+        "outputArr&Sequence_1",
+        "count&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "04_LINQ DataTables.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outputDT&Sequence_1",
+        "excelDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "05_LINQ XML.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Names&Sequence_1",
+        "xDoc&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

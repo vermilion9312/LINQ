@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomersList>
+	<Cumstomer id="1">
+		<Name>Mahmoud</Name>
+		<Old>27</Old>
+		<Address>Germany</Address>
+	</Cusstomer>
+	<Cumstomer id="2">
+		<Name>Akash</Name>
+		<Old>33</Old>
+		<Address>France</Address>
+	</Cusstomer>
+</>CustomersList>
