@@ -100,11 +100,79 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "06_LINQ XML2.xaml",
+      "Path": "06_LINQ XML Descendants.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "xDoc&Sequence_1",
         "Names&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "07_LINQ Group.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outputDT&Sequence_1",
+        "excelDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "08_LINQ Group by two columns.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "excelDT&Sequence_1",
+        "outputDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "09_LINQ Order ASC.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outputDT&Sequence_1",
+        "excelDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "10_LINQ Order DESC.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "excelDT&Sequence_1",
+        "outputDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "11_LINQ Order Multiple Sorting.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "excelDT&Sequence_1",
+        "outputDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "12_LINQ Join(Inner).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outputDT&Sequence_1",
+        "dt2&Sequence_1",
+        "dt1&Sequence_1",
+        "test&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
