@@ -1,5 +1,6 @@
 {
   "name": "001_Learn LINQ for UiPath from A to Z",
+  "projectId": "01336472-5968-41d7-994d-7697f736cee8",
   "description": "UiPath | LINQ Training | Learn LINQ for UiPath from A to Z | LINQ Query Structure | LINQ Query Parts",
   "main": "01_LINQ Array_ToArray.xaml",
   "dependencies": {
@@ -43,7 +44,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": false,
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [

@@ -1,5 +1,6 @@
 {
   "name": "02_Filter DataTable using LINQ Query",
+  "projectId": "3a08261e-df18-440d-af68-bece97b541ea",
   "description": "UiPath | Filter DataTable using LINQ Query | Handle Exception The source contains no DataRows",
   "main": "Main.xaml",
   "dependencies": {
@@ -43,7 +44,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [

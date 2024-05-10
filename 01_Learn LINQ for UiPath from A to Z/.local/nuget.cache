@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vUasPQ/3hjEGgHan3CUlUiqbwhsTzLWyfh2a0a9zQLkPnHLA/pVocBnMnqPRlMuOa9ihV+4j5fQI8n9kWKHdnA==",
+  "dgSpecHash": "VdKf2UYFdoWb/vCa3aRhlG1IvZHaqgoqyCz3NjAs3gsnjHiylNQrn6MY4NmLK9htMGRPtiMZAfe6K/HAd9DvVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vermi\\OneDrive\\문서\\repositories\\practice_003_LINQ\\001_Learn LINQ for UiPath from A to Z\\.local\\",
+  "projectFilePath": "C:\\Github\\LINQ\\01_Learn LINQ for UiPath from A to Z\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\vermi\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\vermi\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
@@ -148,8 +148,6 @@
     "C:\\Users\\vermi\\.nuget\\packages\\runtime.win.system.net.primitives\\4.3.0\\runtime.win.system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\vermi\\.nuget\\packages\\runtime.win.system.net.sockets\\4.3.0\\runtime.win.system.net.sockets.4.3.0.nupkg.sha512",
     "C:\\Users\\vermi\\.nuget\\packages\\runtime.win.system.runtime.extensions\\4.3.0\\runtime.win.system.runtime.extensions.4.3.0.nupkg.sha512",
-    "C:\\Users\\vermi\\.nuget\\packages\\runtime.win7-x64.runtime.native.system.io.compression\\4.3.0\\runtime.win7-x64.runtime.native.system.io.compression.4.3.0.nupkg.sha512",
-    "C:\\Users\\vermi\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0\\runtime.win7.system.private.uri.4.3.0.nupkg.sha512",
     "C:\\Users\\vermi\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
     "C:\\Users\\vermi\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230306.1\\system.activities.viewmodels.1.0.0-20230306.1.nupkg.sha512",
     "C:\\Users\\vermi\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
